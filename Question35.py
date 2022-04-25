@@ -4,14 +4,14 @@ Team=[]
 mistakes_index=[]
 
 for j in range(0,N):
-    ele=int(input("Enter the secret code: "))
+    ele=input("Enter the secret code: ")
     Team.append(ele)
 
 print(Team)
-RIGHTCODE=Team[0]
+RIGHTCODE=int(Team[0])
 
 for i in range(0,N):
-    if Team[i]!=RIGHTCODE:
+    if int(Team[i])!=RIGHTCODE:
         mistakes_index.append(i)
     else:
         continue
