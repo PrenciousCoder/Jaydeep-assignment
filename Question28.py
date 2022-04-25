@@ -12,4 +12,4 @@ for i in range(lower_limit,upper_limit+1):
     total_term=total_term+1
 
 average=suma/total_term
-print(average)
+print(round(average))
