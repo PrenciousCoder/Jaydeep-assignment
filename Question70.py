@@ -1,3 +1,4 @@
+#Question 14 mandatory
 temp=0
 List=[]
 N=int(input("Enter lengthnof list: "))
