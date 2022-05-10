@@ -1,4 +1,4 @@
-#Question7 mandatory
+#Question10 mandatory
 N=int(input("Enter the length of list: "))
 tempo=0
 array=[]
