@@ -1,3 +1,4 @@
+#Question5 page2
 len_item=int(input("Enter the length of items: " ))
 len_price=int(input("Ente rthe löength of prices: "))
 items=[]
